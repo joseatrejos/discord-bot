@@ -1,0 +1,15 @@
+requests
+discord.py
+asyncio
+fastapi
+uvicorn
+python-dotenv
+isodate
+PyNaCl
+gunicorn
+wavelink
+pytube
+pytz
+bs4
+git+https://github.com/joseatrejos/discord.py-pagination
+# discord.py-pagination
